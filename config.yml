@@ -1,0 +1,10 @@
+# log的debug模式, 开启后会使用颜色, 只应该在本地打开debug模式
+log_debug: true
+http_addr: ":8080"
+
+qiniu:
+  access_key: "I50Yj4ceahNUfdGxS-7p5K***********"
+  secret_key: "bIdalJ61Q_S32R5CLzZw3******************"
+  bucket: "zhuzi-1111"
+  number: "zhu******"
+  pwd: "N********"
