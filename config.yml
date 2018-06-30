@@ -3,8 +3,8 @@ log_debug: true
 http_addr: ":8080"
 
 qiniu:
-  access_key: "I50Yj4ceahNUfdGxS-7p5KrnWiZF18APP32t59jV"
-  secret_key: "bIdalJ61Q_S32R5CLzZw3-4DCL2YBQpvOqk-BRjW"
+  access_key: "I50Yj4ceahNUfdGxS-7p5KrnWi*********"
+  secret_key: "bIdalJ61Q**********CLzZw3-4DC************jW"
   bucket: "zhuzi-test"
 
 qiniu_url:
