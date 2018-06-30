@@ -12,7 +12,13 @@ go语言 七牛云SDK云储存demo
 
 - access_token 账户管理凭证和密钥
 
-- TODO 统计接口对接封装 使用接口次数，储存流量等统计
+- bucket 新建空间名
+
+- space 获取标准存储的当前存储量
+
+- blob_id 获取外网流出流量统计和 GET 请求次数
+
+- rs_put 获取 PUT 请求次数
 
 > 调用次demo 需要你的拥有七牛云平台的 账号、密码、accessKey、secretKey、bucket(空间名)
 

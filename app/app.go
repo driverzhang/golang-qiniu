@@ -17,6 +17,10 @@ var Config struct {
 		Number    string `yaml:"number"`
 		Pwd       string `yaml:"pwd"`
 	} `yaml:"qiniu"`
+
+	QiniuURL struct {
+		AccessToken string `yaml:"access_token"`
+	}
 }
 
 // 初始化

@@ -3,8 +3,9 @@ log_debug: true
 http_addr: ":8080"
 
 qiniu:
-  access_key: "I50Yj4ceahNUfdGxS-7p5K***********"
-  secret_key: "bIdalJ61Q_S32R5CLzZw3******************"
-  bucket: "zhuzi-1111"
-  number: "zhu******"
-  pwd: "N********"
+  access_key: "I50Yj4ceahNUfdGxS-7p5KrnWiZF18APP32t59jV"
+  secret_key: "bIdalJ61Q_S32R5CLzZw3-4DCL2YBQpvOqk-BRjW"
+  bucket: "zhuzi-test"
+
+qiniu_url:
+  access_token: "https://acc.qbox.me/oauth2/token"
